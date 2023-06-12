@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head -n i0 | awk '{print $9}'
+ls -lt | head -n i0
